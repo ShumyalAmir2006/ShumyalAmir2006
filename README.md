@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI and Robotics
 - 📫 How to reach me shumyalamir2006@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Phenomenal
+- ⚡ Fun fact: Nil
 
 <!---
 ShumyalAmir2006/ShumyalAmir2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
