@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI and Robotics
 - 📫 How to reach me shumyalamir2006@gmail.com
-- 😄 Pronouns: Phenomenal
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nil
 
 <!---
